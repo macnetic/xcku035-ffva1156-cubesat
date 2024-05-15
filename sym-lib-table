@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "xilinx-auto-schematic")(type "KiCad")(uri "${KIPRJMOD}/xilinx-auto-schematic.kicad_sym")(options "")(descr ""))
-  (lib (name "xcku035")(type "KiCad")(uri "${KIPRJMOD}/xcku035.kicad_sym")(options "")(descr ""))
-)
